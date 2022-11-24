@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohanasarah
-- 👀 I’m interested in Machine Learning, Cloud Computing
+- 👀 I’m interested in Data Science, Machine Learning, Cloud Computing
 - 🌱 I’m a Graduate Student. I'm currently pursuing MSc Thesis in Computer Science
 - 📫 Reach me at sohanasarah@gmail.com
 
